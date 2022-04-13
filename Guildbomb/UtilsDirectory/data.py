@@ -1,11 +1,11 @@
 from discord.ext import commands, tasks
 import discord
 import asyncio
-import os
+import os,
 
 ########################################################################################################################
 # Paste your token and a custom prefix right here:
-dc_token = "X"  # DISCORD-TOKEN
+dc_token = "X963837620494942208"  # DISCORD-TOKEN
 dc_prefix = "!!"  # BOT-PREFIX
 
 ########################################################################################################################
